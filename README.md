@@ -25,7 +25,7 @@
 1. **克隆仓库**
 
 ```bash
-git clone https://github.com/your-username/chatjimmy-api-proxy.git
+git clone https://github.com/xxj333-ai/chatjimmy.ai-proxy-api
 cd chatjimmy-api-proxy
 ```
 
