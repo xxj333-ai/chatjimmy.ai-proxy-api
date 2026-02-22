@@ -241,3 +241,7 @@ kill -9 $(lsof -t -i:8000)
 - [ChatJimmy.ai](https://chatjimmy.ai/) - 提供免费的 LLM 推理服务
 - [沉浸式翻译](https://immersivetranslate.com/) - 优秀的浏览器翻译插件
 - [FastAPI](https://fastapi.tiangolo.com/) - 现代化的 Python Web 框架
+
+
+
+本项目所有代码均由GLM-5模型生成，有可能有错误和问题，敬请谅解
